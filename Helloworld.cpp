@@ -5,7 +5,7 @@ int main() {
     return 0;
 }
 
-sing namespace std;
+using namespace std;
 
 int main() {    
     int number;
